@@ -5,6 +5,6 @@ Here are my files for the Module 14 Challenge! The "index.html" file uses "app.j
 
 Simply select a test subject ID from the dropdown menu to see charts describing the results of the tests!
 
-Website link: (https://hdkronke.github.io/html-javascript-challenge/)https://hdkronke.github.io/html-javascript-challenge/
+Website link: https://hdkronke.github.io/html-javascript-challenge/
 
 Cheers!
