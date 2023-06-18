@@ -6,7 +6,7 @@ The app was created with HTML and Javascript and uses a drop down menu to select
 
 ![1](https://github.com/hdkronke/html-javascript-challenge/assets/117773492/4050e9a3-2acb-4c47-9b0a-8177234dfbe1)
 
-Choosing different patients creates new charts and diagrams to view the types of bacteria in real time!
+Choosing different patients creates new charts and diagrams to view the types of bacteria!
 
 ![2](https://github.com/hdkronke/html-javascript-challenge/assets/117773492/8a0e2f69-d449-4c6a-9c0d-70647a7aea88)
 
