@@ -1,5 +1,5 @@
-# HTML Javascript hallenge
-## Module 14 Challenge
+# Bacterial Biodiversity Analysis
+## HTML Javascript
 
 For this project, I took information on bacteria biodiversity and created an app to visualize the data. Where was this bacteria found? Inside patients' belly buttons, of course!
 The app was created with HTML and Javascript and uses a drop down menu to select a specific patient and view their bacteria cultures:
