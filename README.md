@@ -12,4 +12,4 @@ Choosing different patients creates new charts and diagrams to view the types of
 
 ![3](https://github.com/hdkronke/html-javascript-challenge/assets/117773492/efb92e45-39dc-4337-9a24-98758f6ff662)
 
-### Website link: https://hdkronke.github.io/html-javascript-challenge/
+### Website link: https://hdkronke.github.io/bacterial-biodiversity-analysis/
